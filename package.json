@@ -1,8 +1,10 @@
 {
-  "name": "stackblitz-starters-u1b7b2",
+  "name": "stackblitz-starters-etvmjh",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
+    "@react-three/drei": "^9.97.5",
+    "@react-three/fiber": "^8.15.16",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
@@ -14,5 +16,17 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
